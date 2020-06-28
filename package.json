@@ -1,0 +1,24 @@
+{
+  "name": "mari",
+  "version": "1.0.0",
+  "description": "Artist-Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crispaulcastaneda/marichu-galleria.git"
+  },
+  "keywords": [
+    "JS",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Cristian Paul Castaneda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crispaulcastaneda/marichu-galleria/issues"
+  },
+  "homepage": "https://github.com/crispaulcastaneda/marichu-galleria#readme"
+}
