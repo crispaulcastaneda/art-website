@@ -1,0 +1,323 @@
+/* MEDIA QUERIES */
+
+@media screen and (max-width:960px) {
+    .gallery-section .image {
+        flex: 33.33%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .gallery-section .image {
+        flex: 50%;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .gallery-section .image {
+        flex: 100%;
+    }
+}
+
+
+/*
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+
+}
+
+  /*
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+
+  @media (min-width: 1025px) and (max-width: 1280px) {
+
+    /* ABOUT */
+
+    .about-wrapper {
+        margin-top: 4rem;
+    }
+
+    .img-below {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        align-self: flex-start;
+        padding: 38px 128px 25px 0;
+    }
+
+    .img-below img {
+        width: 90%;
+        margin: 0 25% 0 25%;
+    }
+
+    /* Contact */
+
+    .center-form {
+        width: 66%;
+    }
+}
+
+  /*
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+
+  @media (min-width: 768px) and (max-width: 1024px) {
+    /* ALL */
+    small {
+        font-size: .8rem;
+    }
+
+    /* HOME */
+    .title-page-inner {
+        margin-top: 17rem;
+    }
+
+    /* ABOUT */
+    .header-wrapper {
+        display: flex;
+    }
+
+    .header-page-inner p {
+        font-size: .9rem;
+    }
+
+    .img-below {
+        align-self: center;
+    }
+
+    .img-below img {
+        width: 70%;
+        margin: 0 25% 0 11%;
+    }
+
+    .about-wrapper {
+        margin-top: 4rem;
+    }
+
+    .header-page-inner p {
+        width: 90%;
+    }
+
+    .prime-title {
+        font-size: 1.2rem;
+    }
+
+    /* CONTACT */
+
+    .logo-branding img {
+        width: 30%;
+    }
+
+    .center-form {
+        width: 88%;
+    }
+
+    footer {
+        margin-top: 5rem;
+    }
+
+}
+
+  /*
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    .title-page-inner {
+        margin-top: 14rem;
+    }
+
+    .center-form {
+        width: 66%;
+    }
+
+  }
+
+  /*
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+
+  @media (min-width: 481px) and (max-width: 767px) {
+
+    /* HOME */
+    .title-page-inner {
+        margin-top: 5rem;
+    }
+
+    .title-page-inner h1 {
+        font-size: 4rem;
+    }
+
+    .title-page-inner h2 {
+        font-size: 1rem;
+    }
+
+    small {
+        font-size: 0.8rem;
+    }
+
+    /* ABOUT */
+    .logo-branding img {
+        width: 30%;
+    }
+
+    .about-wrapper {
+        margin-top: 5rem;
+    }
+
+    .img-below img {
+        width: 95%;
+        margin: 35px 25% 0px -16%;
+    }
+
+    .header-page-inner p {
+        font-size: 0.9rem;
+    }
+
+    /* CONTACT */
+    .center-form {
+        width: 89%;
+        padding: 50px 25px 0 25px;
+    }
+
+}
+
+  /*
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+
+  @media (min-width: 320px) and (max-width: 480px) {
+
+    /* HOME */
+    .title-page-inner {
+        margin-top: 3rem;
+    }
+
+    .title-page-inner h1 {
+        font-size: 5rem;
+    }
+
+    .title-page-inner h2 {
+        font-size: .9rem;
+    }
+
+    small {
+        font-size: .7rem;
+    }
+
+    /* ABOUT */
+
+    .navigate-area {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .logo-branding {
+        width: 10%;
+        margin: 0 -50px 0 -46px;
+    }
+
+    .logo-branding img {
+        width: 180%;
+    }
+
+    .btn-col {
+        width: 50%;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .btn-col a {
+        width: 10px;
+        padding: 0;
+        font-size: 1rem;
+        margin: 0 25px 0 -31px;
+
+    }
+
+    .about-wrapper {
+        display: block;
+        margin-top: 1rem;
+    }
+
+    .header-page-inner {
+        padding: 0;
+    }
+
+    .header-page-inner p {
+        width: 65%;
+        font-size: 0.8rem;
+    }
+
+    .img-below img {
+        margin: 25px 25% 0 25%;
+    }
+
+    /* CONTACT */
+
+    .contact-title {
+        text-transform: uppercase;
+        transition: none;
+    }
+
+    .center-form {
+        margin: 0 auto;
+        width: 71%;
+        padding: 50px 50px 0 50px;
+    }
+
+    .center-padding {
+        padding: 0;
+    }
+
+    .contact-title h1 {
+        font-size: 1rem;
+        line-height: 10px;
+    }
+
+    .contact-title h2 {
+        font-size: .9rem;
+        line-height: 10px;
+    }
+
+    input, text-area {
+        font-size: .9rem;
+    }
+
+    .form-control {
+        width: 183px;
+        font-size: .9rem;
+        margin: 0 auto;
+    }
+
+    form .submit {
+        font-size: .9rem;
+    }
+
+    .soc-med img {
+        width: 25px;
+    }
+
+
+    /* FOOTER */
+
+    footer {
+        font-size: .5em;
+    }
+
+    .prime-title {
+        font-size: .9rem;
+    }
+
+}
