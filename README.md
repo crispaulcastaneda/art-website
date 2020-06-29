@@ -26,3 +26,7 @@ This website host from GitHub is a trial version where I can show my own website
 ## Authors
 
 * **Cristian Paul Castañeda** - *Initial Work* - { thdevcristian }
+
+### Credits
+
+* **Gokulkrishh** - *Media Queries* - [gokulkrishh](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
