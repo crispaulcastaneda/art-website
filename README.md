@@ -25,7 +25,7 @@ This website host from GitHub is a trial version where I can show my own website
 
 ## Authors
 
-* **Cristian Paul Castañeda** - *Initial Work* - { thdevcristian }
+* **Cristian Paul Castañeda** - *Initial Work* - [{thdevcristian}](https://thedevcristian.netlify.app)
 
 ### Credits
 
