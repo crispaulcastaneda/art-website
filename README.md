@@ -22,6 +22,7 @@ Barba.js
 ### Deployment
 
 This website host from GitHub is a trial version where I can show my own website creation with my own ideas and a help to the client.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aba204da-4504-430a-b581-eac4d1f5c49c/deploy-status)](https://app.netlify.com/sites/marichugalleria/deploys)
 
 ## Authors
 
