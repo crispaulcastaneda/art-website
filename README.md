@@ -31,3 +31,4 @@ This website host from GitHub is a trial version where I can show my own website
 ### Credits
 
 * **Gokulkrishh** - *Media Queries* - [gokulkrishh](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
+* **Freenom** - *Domain Hosting* - [Freenom](https://www.freenom.com)
