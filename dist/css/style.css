@@ -181,47 +181,47 @@ ul {
 .item:nth-child(2) .item-inner {
     background-size: cover;
     padding-top: calc(180% / (16/9));
-    background-image: url(../img/sketchs/2.jpg);
+    background-image: url(../img/sketchs/2.JPG);
 }
 
 .item:nth-child(3) .item-inner {
-    background-image: url(../img/sketchs/3.jpg);
+    background-image: url(../img/sketchs/3.JPG);
 }
 
 .item:nth-child(4) .item-inner {
-    background-image: url(../img/sketchs/4.jpg);
+    background-image: url(../img/sketchs/4.JPG);
 }
 
 .item:nth-child(5) .item-inner {
-    background-image: url(../img/sketchs/5.jpg);
+    background-image: url(../img/sketchs/5.JPG);
 }
 
 .item:nth-child(6) .item-inner {
-    background-image: url(../img/sketchs/6.jpg);
+    background-image: url(../img/sketchs/6.JPG);
 }
 
 .item:nth-child(7) .item-inner {
-    background-image: url(../img/sketchs/7.jpg);
+    background-image: url(../img/sketchs/7.JPG);
 }
 
 .item:nth-child(8) .item-inner {
-    background-image: url(../img/sketchs/8.jpg);
+    background-image: url(../img/sketchs/8.JPG);
 }
 
 .item:nth-child(9) .item-inner {
-    background-image: url(../img/sketchs/9.jpg);
+    background-image: url(../img/sketchs/9.JPG);
 }
 
 .item:nth-child(10) .item-inner {
-    background-image: url(../img/sketchs/10.jpg);
+    background-image: url(../img/sketchs/10.JPG);
 }
 
 .item:nth-child(11) .item-inner {
-    background-image: url(../img/sketchs/11.jpg);
+    background-image: url(../img/sketchs/11.JPG);
 }
 
 .item:nth-child(12) .item-inner {
-    background-image: url(../img/sketchs/12.jpg);
+    background-image: url(../img/sketchs/12.JPG);
 }
 
 @media screen and (min-width: 480px) {
