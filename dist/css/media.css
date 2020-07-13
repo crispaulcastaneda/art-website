@@ -293,6 +293,10 @@
         margin: 0 auto;
     }
 
+    textarea {
+        height: 20vh;
+    }
+
     form .submit {
         font-size: .9rem;
     }
