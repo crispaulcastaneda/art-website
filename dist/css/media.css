@@ -189,6 +189,10 @@
         padding: 50px 25px 0 25px;
     }
 
+    input,textarea {
+        width: 100%!important;
+    }
+
 }
 
   /*
