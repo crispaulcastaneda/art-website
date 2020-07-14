@@ -1,7 +1,0 @@
-flask
-sqlalchemy
-requests
-gevent
-gunicorn
-redis
-psycopg2
