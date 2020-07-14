@@ -26,6 +26,8 @@
 
 @media (min-width: 1281px) {
 
+    /* CONTACT */
+    
 
 }
 
@@ -188,10 +190,10 @@
         width: 89%;
         padding: 50px 25px 0 25px;
     }
-
+/* 
     input,textarea {
         width: 100%!important;
-    }
+    } */
 
 }
 
