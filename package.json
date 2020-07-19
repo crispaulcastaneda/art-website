@@ -4,7 +4,8 @@
   "description": "Artist-Profile",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "retirejs": "provide security"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,7 @@
     "CSS"
   ],
   "author": "Cristian Paul Castaneda",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/crispaulcastaneda/marichu-galleria/issues"
   },
