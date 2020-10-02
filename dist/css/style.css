@@ -139,8 +139,6 @@ p, a, span, i {
         width: calc(200% + 1.3px);
         height: 150px;
     }
-
-    .
 }
 
 @media (max-width: 767px) {
