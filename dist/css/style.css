@@ -193,6 +193,7 @@ img {
 
     .bio {
         margin-top: 50px;
+        max-width: 310px;
     }
 
     .bio-img {
