@@ -11,15 +11,16 @@ html {
     scroll-behavior: smooth;
 }
 
-body {
-}
-
 h1, h2, h3, h4 {
     font-family: 'Raleway', sans-serif;
 }
 
 p, a, span, i {
     font-family: 'Open Sans', sans-serif;
+}
+
+img {
+    width: 80px;
 }
 
 /* HEADER */
@@ -157,11 +158,44 @@ p, a, span, i {
     .header-p-style {
         display: block;
     }
+
 }
 
 @media (max-width: 767px) {
     .custom-shape-divider-bottom-1601628882 svg {
         width: calc(271% + 1.3px);
         height: 228px;
+    }
+
+    .header a img {
+        width: 50px;
+    }
+
+    .header li a {
+        font-size: .7em;
+    }
+
+    /* ABOUT */
+    .about-flex {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .about-col .img-real {
+        /* width: 100px; */
+    }
+
+    .about-col {
+        font-size: .8rem;
+        padding: 10px;
+    }
+
+    .bio {
+        margin-top: 50px;
+    }
+
+    .bio-img {
+        margin-top: -30px;
     }
 }
