@@ -143,6 +143,20 @@ p, a, span, i {
         width: calc(200% + 1.3px);
         height: 150px;
     }
+
+    .header-col {
+        max-width: 100%;
+        width: clamp(300px, 50vw, 600px);
+        padding: 0;
+    }
+
+    .header-img {
+        display: none;
+    }
+
+    .header-p-style {
+        display: block;
+    }
 }
 
 @media (max-width: 767px) {
