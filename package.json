@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/crispaulcastaneda/marichu-galleria#readme",
   "dependencies": {
-    "retire": "^2.2.2"
+    "retire": "^2.2.2",
+    "swiper": "^6.3.2"
   }
 }

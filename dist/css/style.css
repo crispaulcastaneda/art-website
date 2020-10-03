@@ -19,8 +19,12 @@ p, a, span, i {
     font-family: 'Open Sans', sans-serif;
 }
 
-img {
+.for-img img {
     width: 80px;
+}
+
+.imgBx img {
+    width: 100%;
 }
 
 /* HEADER */
@@ -200,3 +204,25 @@ img {
         margin-top: -30px;
     }
 }
+
+/* SWIPER */
+.swiper-container {
+    width: 80%;
+}
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    background: #d8d3dd;
+  }
+
+  .flex-this {
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .work-col {
+      margin-top: 10%;
+  }

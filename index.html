@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
     <title>Marichu Quinsona | Artist</title>
 
     <link rel="shortcut icon" href="dist/img/title-logo.png">
@@ -10,12 +10,15 @@
     <!-- Fontawesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
 
+    <!-- SWIPER -->
+    <link rel="stylesheet" href="dist/css/swiper.min.css">
+
     <!-- Main CSS -->
     <link rel="stylesheet" href="dist/css/style.css">
 </head>
 <body>
 
-    <header class="header">
+    <header class="header for-img">
         <a href="#header">
             <img src="dist/img/title-logo.png" alt="Logo">
         </a>
@@ -64,13 +67,77 @@
 
     <!-- WORK -->
 
-    <section id="work" class="section work">
+    <section id="work" class="section work flex-this">
         <div class="work-col">
             <h1>ARTWORKS. </h1>
-            <h2>SKETCH</h2>
+            <h2>SKETCH GALLERY</h2>
         </div>
-        <div class="work-col">
+        <!-- Swiper -->
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/1.jpg">
+                                </div>
 
+                </div>
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/2.jpg">
+                                </div>
+
+                </div>
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/3.jpg">
+                                </div>
+
+                </div>
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/4.jpg">
+                                </div>
+
+                </div>
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/5.jpg">
+                                </div>
+
+                </div>
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/6.jpg">
+                                </div>
+                </div>
+
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/7.jpg">
+                                </div>
+
+                </div>
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/8.jpg">
+                                </div>
+
+                </div>
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/9.jpg">
+                                </div>
+
+                </div>
+                <div class="swiper-slide">
+                                <div class="imgBx">
+                                    <img src="dist/img/sketch/10.jpg">
+                                </div>
+
+                </div>
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination"></div>
         </div>
     </section>
 
@@ -93,7 +160,10 @@
     </section>
 
     <!-- JS Script -->
-    <script src="dist/js/script.js"></script>
+    <script type="text/javascript" src="dist/js/script.js" defer></script>
+
+    <!-- SWIPER -->
+    <script type="text/javascript" src="dist/js/swiper.min.js"></script>
 
 </body>
 </html>
