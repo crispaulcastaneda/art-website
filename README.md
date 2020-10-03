@@ -1,23 +1,14 @@
-# Marichu en la Galleria
+# Art Website
 
-A website where an artist contribute her product and create more inspiring artworks to motivate other people.
+Where an artist contribute her product and create more inspiring artworks to motivate other people.
 
 ## How the website works?
 
-It's a simple website created from scratch with a contact form to reach out the artist for a services.
-
-### What will you need?
-
-Your GitHub Desktop Application and a Text Editor.
+It's a simple website created from scratch built with HTML and CSS with a library to view an artwork by swiping.
 
 ### Markups that I used
-
-```
-HTML
-CSS
-JavaScript
-Barba.js
-```
+![HTML](https://img.icons8.com/color/30/html-filetype.png)
+![CSS](https://img.icons8.com/color/30/css-filetype.png)
 
 ### Security Provide
 I used to create a security for a static website using **Retire.js**
@@ -30,9 +21,9 @@ This website host from GitHub is a trial version where I can show my own website
 
 ## Authors
 
-* **Cristian Paul Castañeda** - *Initial Work* - [{thdevcristian}](https://thedevcristian.netlify.app)
+* **Cristian Paul Castañeda** - *Initial Work* - [crispaulcastaneda](https://www.crispaulcastaneda.ml)
 
 ### Credits
 
 * **Gokulkrishh** - *Media Queries* - [gokulkrishh](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
-* **Freenom** - *Domain Hosting* - [Freenom](https://www.freenom.com)
+* **Flaticon** - *Free image for social icons* - [Flaticon](https://www.flaticon.com/)
