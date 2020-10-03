@@ -1,4 +1,4 @@
-# ARt Website
+# Art Website
 
 Where an artist contribute her product and create more inspiring artworks to motivate other people.
 
