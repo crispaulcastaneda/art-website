@@ -294,4 +294,9 @@ p, a, span, i {
     .contact-col {
         margin-top: 180px;
     }
+
+    /* FOOTER */
+    .footer p {
+        font-size: .6rem;
+    }
 }
